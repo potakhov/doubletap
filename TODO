@@ -1,0 +1,3 @@
+- Rewrite all utility functions in utils.cpp without using system() calls.
+- Consider adding IPv6 support
+- Implement 2nd type of mitigation response (invalid sequence number in SYN-ACK)?
